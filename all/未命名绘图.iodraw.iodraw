@@ -38,7 +38,7 @@
           <mxGeometry x="255" y="260" width="135" height="45" as="geometry" />
         </mxCell>
         <mxCell id="a3w3syyW_aYiPTglaFfE-13" value="功能分区方案" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#daf3ff;strokeColor=#2a5c8a;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="255" y="317" width="135" height="40" as="geometry" />
+          <mxGeometry x="255" y="317" width="135" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
