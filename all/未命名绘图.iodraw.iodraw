@@ -20,7 +20,10 @@
           <mxGeometry x="340" y="130" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="a3w3syyW_aYiPTglaFfE-5" value="资源投入方案" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="340" y="200" width="120" height="40" as="geometry" />
+          <mxGeometry x="340" y="192" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a3w3syyW_aYiPTglaFfE-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
