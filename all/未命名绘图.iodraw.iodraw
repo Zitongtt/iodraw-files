@@ -16,7 +16,7 @@
         <mxCell id="a3w3syyW_aYiPTglaFfE-1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;问题一&amp;nbsp;&lt;/font&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;多准则选址评价&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#daf3ff;strokeColor=#2a5c8a;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="190" y="130" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="a3w3syyW_aYiPTglaFfE-2" value="最优选址方案" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#2a5c8a;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="a3w3syyW_aYiPTglaFfE-2" value="最优选址方案" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#daf3ff;strokeColor=#2a5c8a;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="190" y="192" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="a3w3syyW_aYiPTglaFfE-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a3w3syyW_aYiPTglaFfE-4" target="a3w3syyW_aYiPTglaFfE-5">
