@@ -19,8 +19,8 @@
         <mxCell id="a3w3syyW_aYiPTglaFfE-4" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;问题二&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;资源配比优化&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="340" y="130" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="a3w3syyW_aYiPTglaFfE-5" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;问题二&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;资源配比优化&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="340" y="260" width="120" height="50" as="geometry" />
+        <mxCell id="a3w3syyW_aYiPTglaFfE-5" value="资源投入方案" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="340" y="200" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
