@@ -14,7 +14,7 @@
           <mxGeometry x="214" y="92" width="175" height="128" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-108" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;fillColor=#FFFFFF;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
-          <mxGeometry x="257" y="154" width="283" height="56" as="geometry" />
+          <mxGeometry x="257" y="154" width="263" height="56" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-40" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;fillColor=none;fontColor=#ffffff;strokeColor=#3A5431;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="140" y="24" width="380" height="203" as="geometry" />
@@ -220,10 +220,10 @@
           <mxGeometry x="343" y="185" width="107" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-103" value="B-B" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
-          <mxGeometry x="460" y="156" width="60" height="20" as="geometry" />
+          <mxGeometry x="455" y="156" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-104" value="球心距" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
-          <mxGeometry x="459" y="185" width="61" height="20" as="geometry" />
+          <mxGeometry x="455" y="185" width="61" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
