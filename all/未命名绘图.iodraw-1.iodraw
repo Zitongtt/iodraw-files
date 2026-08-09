@@ -58,6 +58,9 @@
         <mxCell id="oGIonJJsQMCyGMiPmmCk-15" value="介质数量" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="185" y="40" width="70" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="oGIonJJsQMCyGMiPmmCk-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oGIonJJsQMCyGMiPmmCk-17" target="oGIonJJsQMCyGMiPmmCk-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-17" value="随机几何生成" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="275" y="40" width="80" height="20" as="geometry" />
         </mxCell>
@@ -90,6 +93,9 @@
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-39" value="单次试验导通判断" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="420" y="94" width="30" height="196" as="geometry" />
+        </mxCell>
+        <mxCell id="oGIonJJsQMCyGMiPmmCk-41" value="边界截断处理" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="415" y="60" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
