@@ -30,7 +30,7 @@
           <mxGeometry x="220" y="110" width="80" height="25" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-4" value="表面间式距离" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="160" y="150" width="90" height="20" as="geometry" />
+          <mxGeometry x="190" y="150" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oGIonJJsQMCyGMiPmmCk-5" target="oGIonJJsQMCyGMiPmmCk-6">
           <mxGeometry relative="1" as="geometry" />
