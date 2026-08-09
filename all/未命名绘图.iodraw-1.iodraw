@@ -53,9 +53,6 @@
         <mxCell id="oGIonJJsQMCyGMiPmmCk-10" value="几何实体建模" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="380" y="110" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oGIonJJsQMCyGMiPmmCk-11" value="接触关系判定" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="345" y="146" width="40" height="94" as="geometry" />
-        </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-12" value="图论建模判定" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="380" y="260" width="40" height="60" as="geometry" />
         </mxCell>
