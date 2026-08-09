@@ -143,19 +143,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-60" value="粗搜索" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="135" y="354" width="85" height="23" as="geometry" />
+          <mxGeometry x="135" y="356" width="85" height="23" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-67" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;fillColor=none;strokeColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="316.25" y="353" width="296.75" height="26" as="geometry" />
+          <mxGeometry x="316.25" y="355" width="296.75" height="26" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#EA6B66;" edge="1" parent="1" source="oGIonJJsQMCyGMiPmmCk-63" target="oGIonJJsQMCyGMiPmmCk-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-63" value="整数二分逼近" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="319.5" y="356" width="126" height="20" as="geometry" />
+          <mxGeometry x="319.5" y="358" width="126" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-64" value="临界加密验证" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="481" y="355.5" width="125" height="20" as="geometry" />
+          <mxGeometry x="481" y="357.5" width="125" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-69" value="置信区间判断" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="160" y="406.5" width="100" height="30" as="geometry" />
@@ -192,7 +192,7 @@
           <mxGeometry x="217.5" y="57.5" width="300" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-66" value="&lt;font color=&quot;#ea6b66&quot;&gt;嵌套随机模型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="226" y="350" width="78" height="20" as="geometry" />
+          <mxGeometry x="226" y="352" width="78" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-98" value="SOCP/GJK" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="259" y="188" width="80" height="20" as="geometry" />
