@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="oGIonJJsQMCyGMiPmmCk-43" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=#FFFFFF;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
+          <mxGeometry x="110" y="34" width="345" height="31" as="geometry" />
+        </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-40" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=#FFFFFF;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
           <mxGeometry x="110" y="91" width="345" height="205" as="geometry" />
         </mxCell>
@@ -96,9 +99,6 @@
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-41" value="边界截断处理" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="369" y="40" width="83" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="oGIonJJsQMCyGMiPmmCk-43" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=#FFFFFF;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
-          <mxGeometry x="110" y="29" width="345" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
