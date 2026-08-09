@@ -192,6 +192,9 @@
         <mxCell id="oGIonJJsQMCyGMiPmmCk-82" value="&lt;font color=&quot;#ea6b66&quot; style=&quot;font-size: 18px;&quot;&gt;问题三&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontSize=18;fontColor=#2A5C8A;" vertex="1" parent="1">
           <mxGeometry x="403" y="499" width="60" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="oGIonJJsQMCyGMiPmmCk-86" value="介质数量" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="65" width="56" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
