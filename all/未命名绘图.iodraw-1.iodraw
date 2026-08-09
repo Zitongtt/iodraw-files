@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="oGIonJJsQMCyGMiPmmCk-26" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;fillColor=none;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
+          <mxGeometry x="214" y="94" width="306" height="119" as="geometry" />
+        </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-118" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;fillColor=none;strokeColor=#3A5431;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="140" y="20" width="480" height="260" as="geometry" />
         </mxCell>
@@ -27,9 +30,6 @@
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-48" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=none;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
           <mxGeometry x="209.5" y="27" width="355" height="243" as="geometry" />
-        </mxCell>
-        <mxCell id="oGIonJJsQMCyGMiPmmCk-26" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;fillColor=none;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
-          <mxGeometry x="214" y="94" width="306" height="119" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-71" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=#FFFFFF;fontColor=#ffffff;strokeColor=#EA6B66;" vertex="1" parent="1">
           <mxGeometry x="133" y="353" width="491" height="61" as="geometry" />
@@ -57,9 +57,6 @@
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-4" value="表面间式距离" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="219" y="96" width="30" height="114" as="geometry" />
-        </mxCell>
-        <mxCell id="oGIonJJsQMCyGMiPmmCk-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#92C973;" edge="1" parent="1" source="oGIonJJsQMCyGMiPmmCk-5" target="oGIonJJsQMCyGMiPmmCk-6">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-5" value="AABB包围盒" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="259" y="96" width="258" height="20" as="geometry" />
