@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-1" value="数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="105" width="50" height="30" as="geometry" />
+          <mxGeometry x="130" y="110" width="50" height="25" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-2" value="解析有限圆柱" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="110" width="80" height="25" as="geometry" />
@@ -33,6 +33,9 @@
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-10" value="几何实体建模" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="110" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oGIonJJsQMCyGMiPmmCk-11" value="几何实体建模" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="120" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
