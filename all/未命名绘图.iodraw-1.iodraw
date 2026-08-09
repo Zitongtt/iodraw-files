@@ -135,8 +135,8 @@
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#2A5C8A;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="561" y="312" as="sourcePoint" />
-            <mxPoint x="588" y="312" as="targetPoint" />
+            <mxPoint x="559" y="312" as="sourcePoint" />
+            <mxPoint x="586" y="312" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-56" value="&lt;font color=&quot;#3a5431&quot;&gt;随即重复判断&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#ffffff;strokeColor=#3A5431;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
