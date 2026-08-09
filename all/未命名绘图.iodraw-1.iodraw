@@ -95,7 +95,7 @@
           <mxGeometry x="420" y="94" width="30" height="196" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-41" value="边界截断处理" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="415" y="60" width="120" height="20" as="geometry" />
+          <mxGeometry x="366" y="40" width="95" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
