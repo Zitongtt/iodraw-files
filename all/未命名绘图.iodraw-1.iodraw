@@ -13,7 +13,7 @@
         <mxCell id="oGIonJJsQMCyGMiPmmCk-37" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=none;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
           <mxGeometry x="206.5" y="27" width="383.5" height="192" as="geometry" />
         </mxCell>
-        <mxCell id="oGIonJJsQMCyGMiPmmCk-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="oGIonJJsQMCyGMiPmmCk-48" target="oGIonJJsQMCyGMiPmmCk-37">
+        <mxCell id="oGIonJJsQMCyGMiPmmCk-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oGIonJJsQMCyGMiPmmCk-48" target="oGIonJJsQMCyGMiPmmCk-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-48" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=none;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
@@ -102,9 +102,6 @@
             <mxPoint x="299" y="223" as="sourcePoint" />
             <mxPoint x="301" y="241" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="oGIonJJsQMCyGMiPmmCk-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oGIonJJsQMCyGMiPmmCk-39" target="oGIonJJsQMCyGMiPmmCk-108">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-39" value="单次试验导通判断" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="583" y="27" width="30" height="192" as="geometry" />
