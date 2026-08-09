@@ -178,7 +178,7 @@
           <mxGeometry x="160" y="420.5" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-74" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=#FFFFFF;fontColor=#ffffff;strokeColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="135" y="490" width="325" height="103" as="geometry" />
+          <mxGeometry x="135" y="490" width="325" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oGIonJJsQMCyGMiPmmCk-76" target="oGIonJJsQMCyGMiPmmCk-77">
           <mxGeometry relative="1" as="geometry" />
@@ -187,7 +187,7 @@
           <mxGeometry x="160" y="500" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-77" value="体积分数" style="whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="293.25" y="497.5" width="120" height="25" as="geometry" />
+          <mxGeometry x="293.25" y="498.5" width="120" height="22.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
