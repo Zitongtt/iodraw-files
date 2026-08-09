@@ -35,7 +35,7 @@
           <mxGeometry x="215" y="31" width="175" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-26" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;fillColor=#FFFFFF;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
-          <mxGeometry x="215" y="88" width="175" height="88" as="geometry" />
+          <mxGeometry x="214" y="92" width="175" height="128" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#3A5431;" edge="1" parent="1" source="oGIonJJsQMCyGMiPmmCk-1" target="oGIonJJsQMCyGMiPmmCk-2">
           <mxGeometry relative="1" as="geometry" />
@@ -47,22 +47,22 @@
           <mxGeometry x="220" y="33" width="117.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-4" value="表面间式距离" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="220" y="92" width="30" height="80" as="geometry" />
+          <mxGeometry x="219" y="96" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#92C973;" edge="1" parent="1" source="oGIonJJsQMCyGMiPmmCk-5" target="oGIonJJsQMCyGMiPmmCk-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-5" value="AABB包围盒" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="260" y="92" width="80" height="20" as="geometry" />
+          <mxGeometry x="259" y="96" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#92C973;" edge="1" parent="1" source="oGIonJJsQMCyGMiPmmCk-6" target="oGIonJJsQMCyGMiPmmCk-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-6" value="轴线段距离" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="260" y="122" width="80" height="20" as="geometry" />
+          <mxGeometry x="259" y="126" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-8" value="SOCP/GJK" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="260" y="152" width="80" height="20" as="geometry" />
+          <mxGeometry x="259" y="156" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oGIonJJsQMCyGMiPmmCk-14" target="oGIonJJsQMCyGMiPmmCk-15">
           <mxGeometry relative="1" as="geometry" />
@@ -83,7 +83,7 @@
           <mxGeometry x="346" y="-12" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-27" value="&lt;font color=&quot;#3a5431&quot;&gt;接触关系判定&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#ffffff;strokeColor=#3A5431;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="88" width="40" height="88" as="geometry" />
+          <mxGeometry x="349" y="92" width="40" height="88" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-28" value="&lt;font color=&quot;#3a5431&quot;&gt;几何实体建模&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#ffffff;strokeColor=#3A5431;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
           <mxGeometry x="350" y="31" width="40" height="49" as="geometry" />
