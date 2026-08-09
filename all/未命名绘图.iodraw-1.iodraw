@@ -148,8 +148,9 @@
         <mxCell id="oGIonJJsQMCyGMiPmmCk-60" value="粗搜索" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="135" y="357" width="85" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="oGIonJJsQMCyGMiPmmCk-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#EA6B66;" edge="1" parent="1" source="oGIonJJsQMCyGMiPmmCk-133">
+        <mxCell id="oGIonJJsQMCyGMiPmmCk-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#EA6B66;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="552" y="500" as="sourcePoint" />
             <mxPoint x="520" y="498.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -257,14 +258,11 @@
         <mxCell id="oGIonJJsQMCyGMiPmmCk-132" value="&lt;font color=&quot;#e8a566&quot; style=&quot;font-size: 18px;&quot;&gt;问题四&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontSize=18;fontColor=#2A5C8A;" vertex="1" parent="1">
           <mxGeometry x="564.5" y="425" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="oGIonJJsQMCyGMiPmmCk-134" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#EA6B66;" edge="1" parent="1" target="oGIonJJsQMCyGMiPmmCk-133">
+        <mxCell id="oGIonJJsQMCyGMiPmmCk-134" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#EA6B66;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="440" y="499" as="sourcePoint" />
-            <mxPoint x="520" y="499" as="targetPoint" />
+            <mxPoint x="442" y="500" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="oGIonJJsQMCyGMiPmmCk-133" value="&lt;span style=&quot;color: rgb(234, 107, 102); text-align: center;&quot;&gt;置信区间判断&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="442" y="480" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
