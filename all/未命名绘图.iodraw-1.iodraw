@@ -222,6 +222,9 @@
         <mxCell id="oGIonJJsQMCyGMiPmmCk-104" value="球心距" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="459" y="185" width="80" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="oGIonJJsQMCyGMiPmmCk-108" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;fillColor=#FFFFFF;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
+          <mxGeometry x="224" y="102" width="175" height="128" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
