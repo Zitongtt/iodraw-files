@@ -10,14 +10,6 @@
         <mxCell id="oGIonJJsQMCyGMiPmmCk-1" value="数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="90" y="110" width="50" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="oGIonJJsQMCyGMiPmmCk-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oGIonJJsQMCyGMiPmmCk-2" target="oGIonJJsQMCyGMiPmmCk-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="270" y="140" />
-              <mxPoint x="310" y="140" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oGIonJJsQMCyGMiPmmCk-2" target="oGIonJJsQMCyGMiPmmCk-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -36,13 +28,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-5" value="AABB包围盒" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="260" y="150" width="90" height="20" as="geometry" />
+          <mxGeometry x="260" y="150" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oGIonJJsQMCyGMiPmmCk-6" target="oGIonJJsQMCyGMiPmmCk-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-6" value="轴线段距离" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="260" y="180" width="90" height="20" as="geometry" />
+          <mxGeometry x="260" y="180" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-8" value="SOCP/GJK" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="260" y="210" width="80" height="20" as="geometry" />
