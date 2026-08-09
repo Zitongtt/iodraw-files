@@ -217,7 +217,7 @@
           <mxGeometry x="343" y="185" width="107" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-103" value="B-B" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
-          <mxGeometry x="460" y="156" width="80" height="20" as="geometry" />
+          <mxGeometry x="460" y="156" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-104" value="球心距" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="459" y="185" width="80" height="20" as="geometry" />
