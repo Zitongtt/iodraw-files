@@ -186,6 +186,16 @@
         <mxCell id="oGIonJJsQMCyGMiPmmCk-77" value="体积分数" style="whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="274.25" y="484.5" width="120" height="22.5" as="geometry" />
         </mxCell>
+        <mxCell id="oGIonJJsQMCyGMiPmmCk-79" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="370" as="sourcePoint" />
+            <mxPoint x="440" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="370" />
+              <mxPoint x="390" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
