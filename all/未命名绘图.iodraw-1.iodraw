@@ -133,12 +133,6 @@
         <mxCell id="oGIonJJsQMCyGMiPmmCk-51" value="&lt;div&gt;&lt;span style=&quot;font-family: LMRoman12-Regular-Identity-H;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;二项统计推断&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="218.5" y="317" width="127.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="oGIonJJsQMCyGMiPmmCk-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#2A5C8A;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="559" y="312" as="sourcePoint" />
-            <mxPoint x="586" y="312" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-56" value="&lt;font color=&quot;#3a5431&quot;&gt;随即重复判断&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#ffffff;strokeColor=#3A5431;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
           <mxGeometry x="520" y="289" width="40" height="50" as="geometry" />
         </mxCell>
@@ -235,6 +229,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="566" y="147" as="sourcePoint" />
             <mxPoint x="584" y="147" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oGIonJJsQMCyGMiPmmCk-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#3A5431;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="575" y="313" as="sourcePoint" />
+            <mxPoint x="593" y="313" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
