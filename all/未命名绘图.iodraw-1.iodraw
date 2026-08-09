@@ -41,7 +41,7 @@
           <mxGeometry x="260" y="210" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-12" value="图论建模判定" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="380" y="260" width="40" height="60" as="geometry" />
+          <mxGeometry x="350" y="250" width="40" height="50" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oGIonJJsQMCyGMiPmmCk-14" target="oGIonJJsQMCyGMiPmmCk-15">
           <mxGeometry relative="1" as="geometry" />
