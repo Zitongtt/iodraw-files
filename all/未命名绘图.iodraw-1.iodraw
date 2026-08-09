@@ -252,7 +252,7 @@
         <mxCell id="oGIonJJsQMCyGMiPmmCk-132" value="&lt;font color=&quot;#e8a566&quot; style=&quot;font-size: 18px;&quot;&gt;问题四&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontSize=18;fontColor=#2A5C8A;" vertex="1" parent="1">
           <mxGeometry x="564.5" y="425" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="oGIonJJsQMCyGMiPmmCk-139" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;rounded=1;" vertex="1" parent="1">
+        <mxCell id="oGIonJJsQMCyGMiPmmCk-139" value="&lt;div style=&quot;text-align: start;&quot;&gt;最低总成本&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="319.5" y="422.5" width="110.5" height="22.5" as="geometry" />
         </mxCell>
       </root>
