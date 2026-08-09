@@ -133,7 +133,7 @@
             <mxPoint x="418" y="328" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oGIonJJsQMCyGMiPmmCk-56" value="&lt;font color=&quot;#3a5431&quot;&gt;图论建模判定&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#ffffff;strokeColor=#3A5431;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
+        <mxCell id="oGIonJJsQMCyGMiPmmCk-56" value="&lt;font color=&quot;#3a5431&quot;&gt;随即重复判断&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#ffffff;strokeColor=#3A5431;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
           <mxGeometry x="350" y="305" width="40" height="50" as="geometry" />
         </mxCell>
       </root>
