@@ -35,7 +35,7 @@
           <mxGeometry x="215" y="31" width="175" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-26" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;fillColor=#FFFFFF;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
-          <mxGeometry x="217" y="136" width="175" height="88" as="geometry" />
+          <mxGeometry x="217" y="135" width="175" height="88" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#3A5431;" edge="1" parent="1" source="oGIonJJsQMCyGMiPmmCk-1" target="oGIonJJsQMCyGMiPmmCk-2">
           <mxGeometry relative="1" as="geometry" />
@@ -47,22 +47,22 @@
           <mxGeometry x="220" y="33" width="117.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-4" value="表面间式距离" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="222" y="140" width="30" height="80" as="geometry" />
+          <mxGeometry x="222" y="139" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#92C973;" edge="1" parent="1" source="oGIonJJsQMCyGMiPmmCk-5" target="oGIonJJsQMCyGMiPmmCk-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-5" value="AABB包围盒" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="262" y="140" width="80" height="20" as="geometry" />
+          <mxGeometry x="262" y="139" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#92C973;" edge="1" parent="1" source="oGIonJJsQMCyGMiPmmCk-6" target="oGIonJJsQMCyGMiPmmCk-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-6" value="轴线段距离" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="262" y="170" width="80" height="20" as="geometry" />
+          <mxGeometry x="262" y="169" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-8" value="SOCP/GJK" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="262" y="200" width="80" height="20" as="geometry" />
+          <mxGeometry x="262" y="199" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oGIonJJsQMCyGMiPmmCk-14" target="oGIonJJsQMCyGMiPmmCk-15">
           <mxGeometry relative="1" as="geometry" />
@@ -83,7 +83,7 @@
           <mxGeometry x="346" y="-12" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-27" value="&lt;font color=&quot;#3a5431&quot;&gt;接触关系判定&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#ffffff;strokeColor=#3A5431;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
-          <mxGeometry x="352" y="136" width="40" height="88" as="geometry" />
+          <mxGeometry x="352" y="135" width="40" height="88" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-28" value="&lt;font color=&quot;#3a5431&quot;&gt;几何实体建模&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#ffffff;strokeColor=#3A5431;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
           <mxGeometry x="350" y="31" width="40" height="49" as="geometry" />
@@ -196,7 +196,7 @@
           <mxGeometry x="277.5" y="-12.5" width="56" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-89" value="解析球体" style="whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="217.5" y="57.5" width="120" height="20" as="geometry" />
+          <mxGeometry x="218.5" y="57.5" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-66" value="&lt;font color=&quot;#ea6b66&quot;&gt;嵌套随机模型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="226" y="364" width="78" height="20" as="geometry" />
