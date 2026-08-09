@@ -18,6 +18,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="oGIonJJsQMCyGMiPmmCk-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oGIonJJsQMCyGMiPmmCk-2" target="oGIonJJsQMCyGMiPmmCk-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="140" />
+              <mxPoint x="310" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-2" value="解析有限圆柱" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="220" y="110" width="80" height="25" as="geometry" />
         </mxCell>
