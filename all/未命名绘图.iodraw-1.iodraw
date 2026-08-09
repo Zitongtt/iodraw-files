@@ -103,6 +103,9 @@
             <mxPoint x="301" y="241" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="oGIonJJsQMCyGMiPmmCk-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oGIonJJsQMCyGMiPmmCk-39" target="oGIonJJsQMCyGMiPmmCk-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-39" value="单次试验导通判断" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="583" y="27" width="30" height="192" as="geometry" />
         </mxCell>
