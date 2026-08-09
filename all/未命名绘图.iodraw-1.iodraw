@@ -23,7 +23,7 @@
           <mxGeometry x="140" y="20" width="480" height="260" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-81" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;fillColor=none;strokeColor=#EA6B66;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="130" y="-26" width="500" height="470" as="geometry" />
+          <mxGeometry x="130" y="-26" width="500" height="446" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-34" value="BFS" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="218" y="233" width="300" height="30" as="geometry" />
@@ -173,7 +173,7 @@
           <mxGeometry x="220" y="388" width="75" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-82" value="&lt;font color=&quot;#ea6b66&quot; style=&quot;font-size: 18px;&quot;&gt;问题三&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontSize=18;fontColor=#2A5C8A;" vertex="1" parent="1">
-          <mxGeometry x="140" y="394" width="60" height="20" as="geometry" />
+          <mxGeometry x="142" y="391" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="oGIonJJsQMCyGMiPmmCk-17">
           <mxGeometry relative="1" as="geometry">
