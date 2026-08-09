@@ -40,9 +40,6 @@
         <mxCell id="oGIonJJsQMCyGMiPmmCk-8" value="SOCP/GJK" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="260" y="210" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="oGIonJJsQMCyGMiPmmCk-12" value="图论建模判定" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="414" y="360" width="40" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oGIonJJsQMCyGMiPmmCk-14" target="oGIonJJsQMCyGMiPmmCk-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -63,6 +60,9 @@
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-28" value="&lt;font color=&quot;#3a5431&quot;&gt;几何实体建模&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#ffffff;strokeColor=#3A5431;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
           <mxGeometry x="350" y="98" width="40" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="oGIonJJsQMCyGMiPmmCk-32" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;图论建模判定&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#ffffff;strokeColor=#3A5431;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+          <mxGeometry x="350" y="250" width="40" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
