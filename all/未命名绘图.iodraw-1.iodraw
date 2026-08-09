@@ -85,8 +85,8 @@
             <mxPoint x="424" y="184" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oGIonJJsQMCyGMiPmmCk-39" value="数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="420" y="94" width="50" height="25" as="geometry" />
+        <mxCell id="oGIonJJsQMCyGMiPmmCk-39" value="单次试验导通判断" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="420" y="94" width="50" height="196" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
