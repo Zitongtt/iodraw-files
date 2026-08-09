@@ -34,8 +34,8 @@
         <mxCell id="oGIonJJsQMCyGMiPmmCk-10" value="几何实体建模" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="110" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="oGIonJJsQMCyGMiPmmCk-11" value="几何实体建模" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="120" width="100" height="20" as="geometry" />
+        <mxCell id="oGIonJJsQMCyGMiPmmCk-11" value="接触关系判定" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="150" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
