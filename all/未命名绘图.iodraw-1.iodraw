@@ -203,8 +203,8 @@
         <mxCell id="oGIonJJsQMCyGMiPmmCk-86" value="成本" style="whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="277.5" y="54.5" width="56" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="oGIonJJsQMCyGMiPmmCk-89" value="成本" style="whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="287.5" y="64.5" width="56" height="20" as="geometry" />
+        <mxCell id="oGIonJJsQMCyGMiPmmCk-89" value="解析球体" style="whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="241" y="120" width="56" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
