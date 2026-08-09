@@ -13,7 +13,10 @@
         <mxCell id="oGIonJJsQMCyGMiPmmCk-2" value="解析有限圆柱" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oGIonJJsQMCyGMiPmmCk-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oGIonJJsQMCyGMiPmmCk-4" value="表面间式距离" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oGIonJJsQMCyGMiPmmCk-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
