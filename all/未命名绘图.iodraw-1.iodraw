@@ -196,7 +196,7 @@
           <mxGeometry x="218" y="120" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-66" value="&lt;font color=&quot;#ea6b66&quot;&gt;嵌套随机模型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="318" y="420.5" width="120" height="20" as="geometry" />
+          <mxGeometry x="239" y="386" width="78" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
