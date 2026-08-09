@@ -26,10 +26,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-6" value="轴线段距离" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="180" width="90" height="20" as="geometry" />
+          <mxGeometry x="260" y="180" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-8" value="SOCP/GJK" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="340" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
