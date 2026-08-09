@@ -158,7 +158,7 @@
           <mxGeometry x="220" y="440" width="125" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-66" value="&lt;font color=&quot;#ea6b66&quot;&gt;嵌套随机模型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="300" y="389" width="120" height="20" as="geometry" />
+          <mxGeometry x="320" y="389" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-67" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;fillColor=none;strokeColor=#EA6B66;" vertex="1" parent="1">
           <mxGeometry x="216.5" y="405" width="133.5" height="61" as="geometry" />
