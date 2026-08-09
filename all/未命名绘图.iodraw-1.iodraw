@@ -210,16 +210,16 @@
             <mxPoint x="299" y="176" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oGIonJJsQMCyGMiPmmCk-100" value="A-A" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="338" y="156" width="80" height="20" as="geometry" />
+        <mxCell id="oGIonJJsQMCyGMiPmmCk-100" value="A-B" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="343" y="156" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-101" value="SOCP/GJK" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="338" y="185" width="80" height="20" as="geometry" />
+          <mxGeometry x="343" y="185" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-102" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#92C973;" edge="1" parent="1" source="oGIonJJsQMCyGMiPmmCk-101">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="328" y="226" as="sourcePoint" />
-            <mxPoint x="378" y="176" as="targetPoint" />
+            <mxPoint x="333" y="226" as="sourcePoint" />
+            <mxPoint x="383" y="176" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
