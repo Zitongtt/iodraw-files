@@ -79,7 +79,7 @@
             <mxPoint x="299" y="251" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oGIonJJsQMCyGMiPmmCk-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#3A5431;shape=flexArrow;" edge="1" parent="1">
+        <mxCell id="oGIonJJsQMCyGMiPmmCk-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#3A5431;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="397" y="184" as="sourcePoint" />
             <mxPoint x="424" y="184" as="targetPoint" />
