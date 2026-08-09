@@ -32,7 +32,7 @@
           <mxGeometry x="214" y="94" width="306" height="119" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-71" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=#FFFFFF;fontColor=#ffffff;strokeColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="133" y="353" width="491" height="103" as="geometry" />
+          <mxGeometry x="133" y="353" width="491" height="57" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-54" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=none;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="213" y="284" width="397" height="60" as="geometry" />
@@ -162,11 +162,6 @@
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-69" value="置信区间判断" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="480" y="389.5" width="126" height="20.5" as="geometry" />
-        </mxCell>
-        <mxCell id="oGIonJJsQMCyGMiPmmCk-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#EA6B66;" edge="1" parent="1" target="oGIonJJsQMCyGMiPmmCk-77">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="125" y="456" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#EA6B66;" edge="1" parent="1" source="oGIonJJsQMCyGMiPmmCk-76" target="oGIonJJsQMCyGMiPmmCk-77">
           <mxGeometry relative="1" as="geometry" />
