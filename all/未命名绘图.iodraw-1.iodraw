@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="oGIonJJsQMCyGMiPmmCk-34" value="BFS" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="218" y="233" width="300" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-108" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;fillColor=none;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
           <mxGeometry x="257" y="157" width="263" height="56" as="geometry" />
         </mxCell>
@@ -92,13 +95,10 @@
           <mxGeometry x="520" y="30.5" width="40" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-33" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#ffffff;strokeColor=#3A5431;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
-          <mxGeometry x="307" y="231" width="175" height="34" as="geometry" />
+          <mxGeometry x="307" y="231" width="253" height="34" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-32" value="&lt;font color=&quot;#3a5431&quot;&gt;图论建模判定&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#ffffff;strokeColor=#3A5431;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
-          <mxGeometry x="442" y="231" width="40" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="oGIonJJsQMCyGMiPmmCk-34" value="BFS" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="218" y="233" width="300" height="30" as="geometry" />
+          <mxGeometry x="520" y="231" width="40" height="34" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#6d8764;strokeColor=#3A5431;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
