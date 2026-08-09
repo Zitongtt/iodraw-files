@@ -163,10 +163,7 @@
         <mxCell id="oGIonJJsQMCyGMiPmmCk-69" value="置信区间判断" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="480" y="389.5" width="126" height="20.5" as="geometry" />
         </mxCell>
-        <mxCell id="oGIonJJsQMCyGMiPmmCk-74" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=#FFFFFF;fontColor=#ffffff;strokeColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="135" y="480" width="264" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="oGIonJJsQMCyGMiPmmCk-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#EA6B66;" edge="1" parent="1" source="oGIonJJsQMCyGMiPmmCk-76" target="oGIonJJsQMCyGMiPmmCk-77">
+        <mxCell id="oGIonJJsQMCyGMiPmmCk-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#EA6B66;" edge="1" parent="1" source="oGIonJJsQMCyGMiPmmCk-74" target="oGIonJJsQMCyGMiPmmCk-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-76" value="介质数量" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
@@ -174,11 +171,6 @@
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-77" value="体积分数" style="whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="135" y="388" width="120" height="22.5" as="geometry" />
-        </mxCell>
-        <mxCell id="oGIonJJsQMCyGMiPmmCk-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.435;exitY=0.983;exitDx=0;exitDy=0;entryX=0.685;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#EA6B66;exitPerimeter=0;" edge="1" parent="1" source="oGIonJJsQMCyGMiPmmCk-69">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="209.5" y="472.5" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-82" value="&lt;font color=&quot;#ea6b66&quot; style=&quot;font-size: 18px;&quot;&gt;问题三&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontSize=18;fontColor=#2A5C8A;" vertex="1" parent="1">
           <mxGeometry x="414" y="499" width="60" height="20" as="geometry" />
@@ -241,6 +233,15 @@
             <mxPoint x="564" y="313" as="sourcePoint" />
             <mxPoint x="582" y="313" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="oGIonJJsQMCyGMiPmmCk-121" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#EA6B66;" edge="1" parent="1" source="oGIonJJsQMCyGMiPmmCk-76" target="oGIonJJsQMCyGMiPmmCk-74">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="400" as="sourcePoint" />
+            <mxPoint x="255" y="399" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oGIonJJsQMCyGMiPmmCk-74" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=#FFFFFF;fontColor=#ffffff;strokeColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="135" y="384.75" width="264" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
