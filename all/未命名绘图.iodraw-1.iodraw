@@ -64,6 +64,9 @@
         <mxCell id="oGIonJJsQMCyGMiPmmCk-8" value="A-A" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="259" y="156" width="80" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="oGIonJJsQMCyGMiPmmCk-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="oGIonJJsQMCyGMiPmmCk-14" target="oGIonJJsQMCyGMiPmmCk-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-14" value="体积分数" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="142" y="-12" width="78" height="20" as="geometry" />
         </mxCell>
@@ -110,7 +113,7 @@
           <mxGeometry x="483" y="27" width="30" height="196" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-41" value="边界截断处理" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="519" y="-12" width="83" height="20" as="geometry" />
+          <mxGeometry x="527" y="-12" width="83" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#b1ddf0;strokeColor=#2A5C8A;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
