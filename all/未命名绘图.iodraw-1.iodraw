@@ -166,7 +166,7 @@
           <mxGeometry x="399" y="370" width="125" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-66" value="&lt;font color=&quot;#ea6b66&quot;&gt;嵌套随机模型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="354" y="389" width="120" height="20" as="geometry" />
+          <mxGeometry x="346" y="420.5" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#EA6B66;" edge="1" parent="1" source="oGIonJJsQMCyGMiPmmCk-67" target="oGIonJJsQMCyGMiPmmCk-69">
           <mxGeometry relative="1" as="geometry" />
