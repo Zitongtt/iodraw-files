@@ -23,7 +23,7 @@
           <mxGeometry x="212.5" y="94" width="230" height="196" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-43" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=none;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="140" y="51" width="500" height="27" as="geometry" />
+          <mxGeometry x="140" y="-20" width="500" height="27" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-37" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=#FFFFFF;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
           <mxGeometry x="212.5" y="94" width="180" height="196" as="geometry" />
@@ -68,19 +68,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-14" value="体积分数" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="145" y="55" width="54" height="20" as="geometry" />
+          <mxGeometry x="145" y="-16" width="54" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oGIonJJsQMCyGMiPmmCk-15" target="oGIonJJsQMCyGMiPmmCk-86">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-15" value="介质数量" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="55" width="56" height="20" as="geometry" />
+          <mxGeometry x="210" y="-16" width="56" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oGIonJJsQMCyGMiPmmCk-17" target="oGIonJJsQMCyGMiPmmCk-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-17" value="随机几何生成" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="346" y="55" width="80" height="20" as="geometry" />
+          <mxGeometry x="346" y="-16" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-27" value="&lt;font color=&quot;#3a5431&quot;&gt;接触关系判定&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#ffffff;strokeColor=#3A5431;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
           <mxGeometry x="350" y="146" width="40" height="88" as="geometry" />
@@ -113,7 +113,7 @@
           <mxGeometry x="420" y="94" width="30" height="196" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-41" value="边界截断处理" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="438" y="55" width="83" height="20" as="geometry" />
+          <mxGeometry x="438" y="-16" width="83" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#b1ddf0;strokeColor=#2A5C8A;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -189,11 +189,11 @@
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="oGIonJJsQMCyGMiPmmCk-17">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="329.5" y="64.5" as="sourcePoint" />
+            <mxPoint x="329.5" y="-6.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-86" value="成本" style="whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="277.5" y="54.5" width="56" height="20" as="geometry" />
+          <mxGeometry x="277.5" y="-16.5" width="56" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-89" value="解析球体" style="whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="218" y="120" width="120" height="20" as="geometry" />
