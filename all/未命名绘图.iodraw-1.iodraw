@@ -110,7 +110,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-39" value="单次试验导通判断" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="420" y="27" width="30" height="196" as="geometry" />
+          <mxGeometry x="421" y="27" width="30" height="196" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-41" value="边界截断处理" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="435" y="-12" width="83" height="20" as="geometry" />
