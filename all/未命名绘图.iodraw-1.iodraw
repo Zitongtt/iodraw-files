@@ -113,7 +113,7 @@
           <mxGeometry x="142" y="272" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-49" value="多次试验统计估计" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" vertex="1" parent="1">
-          <mxGeometry x="422" y="300" width="30" height="110" as="geometry" />
+          <mxGeometry x="422" y="300" width="30" height="70" as="geometry" />
         </mxCell>
         <mxCell id="oGIonJJsQMCyGMiPmmCk-53" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=none;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="212.5" y="308" width="147.5" height="50" as="geometry" />
