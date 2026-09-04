@@ -67,8 +67,8 @@
         <mxCell id="Oqi3O6TzX5D_bU-yDwlC-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;第三层：科研智能体协作&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="129.56" y="160" width="220.44" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Oqi3O6TzX5D_bU-yDwlC-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;第三层：科研智能体协作&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="139.56" y="170" width="220.44" height="60" as="geometry" />
+        <mxCell id="Oqi3O6TzX5D_bU-yDwlC-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;第四层：专业科研工具&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="129.56" y="240" width="220.44" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
